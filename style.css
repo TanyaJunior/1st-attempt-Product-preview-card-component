@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}body{
+
+    background-color: bisque;
+
+}.container{
+    position: absolute;
+    top: 122px;
+    left: 677px;
+    height:  413px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+
+}h1{
+
+font-family:Fraunces;
+
+
+
+}p {
+
+font-family:Montserrat ;
+padding-top: 10px;
+padding-bottom: 10px;
+
+
+}.price{
+
+  padding-bottom: 10px;
+
+}.price ul li{ 
+    font-family: mant;
+    width: 700px;
+    color: darkgreen;
+    font-family: fraunces ;
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+    
+}.btn button{
+    color: white;
+    font: larger;
+    height: 50px;
+    width: 200px;
+    display: inline-block;
+    background-color:  rgb(18, 82, 18);
+    border-radius: 10px;
+    border: 0;
+    padding: 0 16px;
+
+
+}img{
+   position: absolute;
+    width: 20%;
+    top: 20%;
+    left: 30%;
+    border-radius: 10px;
+}.footer{
+    position: absolute;
+    top: 90%;
+    left: 40%;
+}.footer img{
+    position: static;
+    width: 30px;
+}
+    
+ 
